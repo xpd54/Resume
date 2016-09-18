@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.16)  18 SEP 2016 11:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.16)  18 SEP 2016 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -348,50 +348,50 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ù in font cmr9!
 
-Overfull \hbox (7.78722pt too wide) in alignment at lines 137--137
+Overfull \hbox (7.78722pt too wide) in alignment at lines 139--139
 [] [] 
  []
 
 
-Overfull \hbox (2.43384pt too wide) in alignment at lines 139--139
+Overfull \hbox (2.43384pt too wide) in alignment at lines 141--141
 [] [] 
  []
 
 
-Overfull \hbox (5.65804pt too wide) in alignment at lines 141--141
+Overfull \hbox (5.65804pt too wide) in alignment at lines 143--143
 [] [] 
  []
 
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 165--167
+Overfull \hbox (6.0pt too wide) in paragraph at lines 167--169
 [][][][][][][]  
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 168.
+(Font)              <9> on input line 170.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 168.
+(Font)              <5> on input line 170.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 191--192
+Overfull \hbox (6.0pt too wide) in paragraph at lines 193--194
 [][][][][][][]  
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 206--207
+Overfull \hbox (6.0pt too wide) in paragraph at lines 208--209
 [][][][][][][]  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 214.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 214.
  (./Ravi_Prakash_Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 212.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 214.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 214.
 Package rerunfilecheck Info: File `Ravi_Prakash_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 214.
  ) 
 Here is how much of TeX's memory you used:
  6269 strings out of 493014
@@ -412,10 +412,10 @@ cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Ravi_Prakash_Resume.pdf (2 pages, 151035 bytes).
+Output written on Ravi_Prakash_Resume.pdf (2 pages, 151170 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 73 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
